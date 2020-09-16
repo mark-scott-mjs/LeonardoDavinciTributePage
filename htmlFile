@@ -1,0 +1,67 @@
+<main id='main'>
+  <h1 id='title'>The Life and Times of Leonardo DaVinci</h1>
+  
+  <figure id='img-div'>
+    <img id='image' src='https://cdn.britannica.com/04/95904-050-7EB39FC8/Last-Supper-wall-painting-restoration-Leonardo-da-1999.jpg' alt='The Last Supper by Leonardo DaVinci as seen at the monastery of Santa Maria delle Grazie.'/>
+    
+    <figcaption id='img-caption'> The Last Supper</figcaption>
+  </figure>
+  
+  <section id='tribute-info'>   
+    <figure id='img-div-2'> 
+      <img id='image2' src='https://thecollector.b-cdn.net/wp-content/uploads/2019/08/00.jpg' alt='The Lucan Portrait of Leonardo DaVinci thought to be a self-portrait.' />
+      
+      <figcaption id='img-caption-2'> Portrait of Leonardo DaVinci </figcaption>
+    </figure>
+    
+    <div id='timeline'>
+      <h2>A Brief Timeline of Leonardo DaVinci's Life</h2>
+      <ul>
+        <li> <strong>April 15th, 1452: </strong>Leonardo is born in the Tuscan town of Vinci.</li>
+        <li><strong>1466: </strong>Leonardo begins his apprenticeship with Verrochio.</li>
+        <li><strong>1487: </strong>Leonardo sketches the Vitruvian Man.</li>
+        <li><strong>1495-1498: </strong>Leonardo paints the Last Supper.</li>
+        <li><strong>1503-1506: </strong>Leonardo paints the Mona Lisa.</li>
+        <li><strong>1513-1516: </strong>Leonardo paints Saint John the Baptist.</li>
+        <li><strong>May 2nd, 1519: </strong> Leonardo passes away in France.</li>
+      </ul>
+    </div>
+    
+    <div id='notable-works-text'> 
+      <h2>Notable Works of Art Created by Leonardo DaVinci</h2>
+      <ul>
+        <li>Lady with an Ermine</li>
+        <li>The Madonna of the Yarnwinder</li>
+        <li>Salvator Mundi</li>
+        <li>Mona Lisa</li>
+        <li>Saint John the Baptist</li>
+        <li>Click<a href='https://en.wikipedia.org/wiki/List_of_works_by_Leonardo_da_Vinci' target="_blank" id = 'tribute-link'> here</a> for a full list of Leonardo DaVinci's work</li>
+      </ul>
+    </div>
+    
+    <div id='notable-works-image'>
+      <figure id='img-div-3'>
+         <img id='image3' src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg/800px-Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg' alt='Lady with an Ermine painting.' />
+         <figcaption id='img-caption-3'>Lady with an Ermine</figcaption>
+      </figure>
+      <figure id='img-div-4'>
+        <img id='image4' src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Leonardo_da_Vinci%2C_Madonna_of_the_Yarnwinder%2C_Buccleuch_version.jpg/800px-Leonardo_da_Vinci%2C_Madonna_of_the_Yarnwinder%2C_Buccleuch_version.jpg' alt='The Madonna of the Yarnwinder painting' />
+        <figcaption id='img-caption-4'>The Madonna of the Yarnwinder</figcaption>
+      </figure>
+      <figure id='img-div-5'>
+        <img id='image5'src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg/800px-Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg' alt='Salvator Mundi painting'  />
+        <figcaption id='img-caption-5'>Salvator Mundi</figcaption>
+      </figure>
+      <figure id='img-div-6'>
+        <img id='image6' src='https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg' alt="Leonardo DaVinci's most famous painting, the Mona Lisa."  />
+        <figcaption id='img-caption-6'>Mona Lisa</figcaption>
+      </figure>
+      <figure id='img-div-7'>
+        <img id='image7' src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg/800px-Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg' alt='Saint John the Baptist painting' />
+        <figcaption id='img-caption-7'>Saint John the Baptist</figcaption>
+      </figure>
+    </div>
+    
+  </section> 
+      
+</main>
