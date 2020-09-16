@@ -1,0 +1,176 @@
+#main {
+  background: #D3D3D3;
+}
+
+#title {
+  text-align: center;
+}
+
+#img-div {
+  border-style: hidden;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  margin: 15px 0 15px 0;
+  text-align: center;
+}
+
+#tribute-info {}
+
+#img-div-2 {
+  border-style: hidden;
+  height: auto;
+  widht:auto;
+}
+
+#image2 {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption-2 {
+  margin: 15px 0 15px 0;
+  text-align: center;
+}
+
+#timeline {}
+
+#notable-works-text {}
+
+a {
+   color: #477CA7;
+}
+
+a:visited {
+  color: #74638F;
+}
+
+#tribute-link {}
+
+#notable-works-image {
+  display: flex;
+  border-style: hidden;
+}
+
+#img-div-3 {
+  width: 50%;
+  border-style: hidden;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+#image3 {
+  max-width: 100%;
+  max-height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+}
+
+#img-caption-3 {
+  margin: 15px 0 15px 0;
+  text-align: center;
+}
+
+#img-div-4 {
+  width: 50%;
+  border-style: hiddin;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+}
+
+#image4 {
+  max-width: 100%;
+  max-height: 50%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+}
+
+#img-caption-4 {
+  margin: 15px 0 15px 0;
+  text-align: center;
+}
+
+#img-div-5 {
+  width: 50%;
+  border-style:hidden;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+}
+
+#image5 {
+  max-width: 100%;
+  max-height: 50%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+}
+
+#img-caption-5 {
+  margin: 15px 0 15px 0;
+  text-align: center;
+}
+
+#img-div-6 {
+  height: 50%;
+  width: 50%;
+  border-style: hidden;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom: auto;
+}
+
+#image6 {
+  max-width: 100%;
+  max-height: 50%;
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom: auto;
+}
+
+#img-caption-6 {
+  margin: 15px 0 15px 0;
+  text-align: center;
+}
+
+#img-div-7 {
+  width: 50%;
+  border-style: hidden;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+
+}
+
+#image7 {
+  max-width: 100%;
+  max-height: 50%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+}
+
+#img-caption-7 {
+  margin: 15px 0 15px 0;
+  text-align: center;
+}
